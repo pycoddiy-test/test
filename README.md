@@ -13,3 +13,6 @@ Text *goes* here
 - Three
 
 `$ls`
+
+Let's add an image.
+![Alt text to be displayed](assets/asus.jpg)
